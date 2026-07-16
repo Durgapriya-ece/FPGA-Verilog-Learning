@@ -1,0 +1,7 @@
+# Compiled simulation executables
+*_sim
+*.exe
+
+# GTKWave session files
+*.gtkw
+
